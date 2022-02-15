@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fhirworksonawsui-dev-112204-authRole",
+      "UnauthRoleArn": "arn:aws:iam::132877634006:role/amplify-fhirworksonawsui-dev-112204-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::132877634006:role/amplify-fhirworksonawsui-dev-112204-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-fhirworksonawsui-dev-112204-deployment",
+      "UnauthRoleName": "amplify-fhirworksonawsui-dev-112204-unauthRole",
+      "StackName": "amplify-fhirworksonawsui-dev-112204",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:132877634006:stack/amplify-fhirworksonawsui-dev-112204/1321c150-8e06-11ec-91b7-065a1c255e8d",
+      "AmplifyAppId": "dsoxe732yliwd"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dsoxe732yliwd",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
